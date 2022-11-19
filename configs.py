@@ -8,13 +8,13 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "5891645935:AAG37uqchOj5NwfFRSo6q_mlg4xRAQ1zo38")
     BOT_SESSION_NAME = os.environ.get("BOT_SESSION_NAME", "allnew_movie<request_bot")
     USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "1BVtsOIsBu2LW4Pinq4AUOVaUdVXRLyg5yswHkglJ5wltykYPmXKD3UtWBTO4nfpeuGP4uhP5w_BT-z5kBK7fZ5oad2xKCyd_uotEAWydt6xPIPaFqZqtI4JsiiJ35Kz61n61Nz-Rrz9-X6j1MvuxOhXMBRvC2dCUtVfVT1TAN0R09Y4Qn2JCTHexeS4ieVZWtzY7ZfFGKIM679qLaP6PR36SBAaB-nZFjeVGC3JVRExBnIfCwSmU2LRsJP7-4IUM9BsmSFQlSFnJ5C_gjvuStoyhqbdt-njx2UQ2XfrkWr9GglJYppiLdIGbuxACvcsjscOfJJWx_AESa0FVN5U42q7I-n0J150=")
-    CHANNEL_ID = int(os.environ.get("CHANNEL_ID", -100))
+    CHANNEL_ID = int(os.environ.get("-1001828630319", -100))
     BOT_USERNAME = os.environ.get("allnew_movie<request_bot")
     BOT_OWNER = int(os.environ.get("@Roiderff"))
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
     ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
 
-🤖 My Name: <a href='https://t.me/cyniteofficial'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/mdisk_all_new_movies_bot</a>
 
 📝 Language : <a href='https://www.python.org'> Python V3</a>
 
